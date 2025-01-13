@@ -1,0 +1,10 @@
+C:\Users\sasha\source\repos\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\sasha\source\repos\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.Form1.resources
+C:\Users\sasha\source\repos\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.GenerateResource.cache
+D:\NureHomeWork\СПЗ\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.AssemblyReference.cache
+D:\NureHomeWork\СПЗ\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.Form1.resources
+D:\NureHomeWork\СПЗ\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.GenerateResource.cache
+C:\Users\ddazk\Downloads\PoolMonitor\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.AssemblyReference.cache
+C:\Users\ddazk\Downloads\PoolMonitor\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.Form1.resources
+C:\Users\ddazk\Downloads\PoolMonitor\PoolMonitor\PoolMonitor\x64\Debug\PoolMonitor.vcxproj.GenerateResource.cache

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  Form1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+CppCLR_WinFormsProject.obj : error LNK2028: unresolved token (0A000433) "extern "C" void __cdecl PostQuitMessage(int)" (?PostQuitMessage@@$$J0YAXH@Z) referenced in function "void __cdecl UpdateTags(void)" (?UpdateTags@@$$FYAXXZ)
+CppCLR_WinFormsProject.obj : error LNK2019: unresolved external symbol "extern "C" void __cdecl PostQuitMessage(int)" (?PostQuitMessage@@$$J0YAXH@Z) referenced in function "void __cdecl UpdateTags(void)" (?UpdateTags@@$$FYAXXZ)
+D:\NureHomeWork\СПЗ\PoolMonitor\x64\Release\PoolMonitor.exe : fatal error LNK1120: 2 unresolved externals
